@@ -8,10 +8,11 @@ It is made as a side project just for my entertainment  (and also for learning h
 It's a made-up word. If you want to know how it was made, I took "La dorée" (french for "the golden" in feminine), glued it together and replaced the last double `ée` with an `a`.
 
 ### Is your font based on any other font?
-Well, I wouldn't say based in the sense that I took another font and modified it, but rather in terms of inspiration. In this case, I used MS Reference as my reference.
+I used MS Reference as my reference.
+I also took inkscape's "serif" font and modified each letter in varying levels.
 
 ## Current state
-So far, I've made *only* 9 letters (A to I in uppercase).
+So far, I've made uppercase and lowercase, alongside all numbers. However, the lowercase needs to be fixed.
 
 ## Disclaimer
 - The Ladora font won't get a sans-serif or monotype version, simply because I don't want to make those right now. I'll probably make them in future versions.
